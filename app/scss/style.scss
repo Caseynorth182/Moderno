@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+
+
+header {
+    padding: 25px;
+}
+
+.box {
+    text-align: center;
+}
+
+.test {
+    margin: 0 auto;
+}
+
+h1 {
+    color: red;
+    margin: 0 auto;
+    text-align: center;
+}
